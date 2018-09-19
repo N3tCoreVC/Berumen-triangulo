@@ -1,0 +1,11 @@
+C:\Users\Residentes\ejercicios\triangulo\obj\Debug\netcoreapp2.1\triangulo.csprojAssemblyReference.cache
+C:\Users\Residentes\ejercicios\triangulo\obj\Debug\netcoreapp2.1\triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Residentes\ejercicios\triangulo\obj\Debug\netcoreapp2.1\triangulo.AssemblyInfoInputs.cache
+C:\Users\Residentes\ejercicios\triangulo\obj\Debug\netcoreapp2.1\triangulo.AssemblyInfo.cs
+C:\Users\Residentes\ejercicios\triangulo\bin\Debug\netcoreapp2.1\triangulo.deps.json
+C:\Users\Residentes\ejercicios\triangulo\bin\Debug\netcoreapp2.1\triangulo.runtimeconfig.json
+C:\Users\Residentes\ejercicios\triangulo\bin\Debug\netcoreapp2.1\triangulo.runtimeconfig.dev.json
+C:\Users\Residentes\ejercicios\triangulo\bin\Debug\netcoreapp2.1\triangulo.dll
+C:\Users\Residentes\ejercicios\triangulo\bin\Debug\netcoreapp2.1\triangulo.pdb
+C:\Users\Residentes\ejercicios\triangulo\obj\Debug\netcoreapp2.1\triangulo.dll
+C:\Users\Residentes\ejercicios\triangulo\obj\Debug\netcoreapp2.1\triangulo.pdb
